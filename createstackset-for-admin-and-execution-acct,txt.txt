@@ -1,0 +1,3 @@
+
+
+aws cloudformation create-stack --stack-name SG-FB-Test2 --template-body file://GISIQ_DR_Webservers.json --parameters file://GISIQ_DR_Webservers_Parameter.json

@@ -1,0 +1,27 @@
+[
+   {
+    "ParameterKey": "Subnet1",
+    "ParameterValue": "subnet-0ba86b47a289971bb"
+   },
+   {
+    "ParameterKey": "Subnet2",
+    "ParameterValue": "subnet-04b66f4e49ddd24f7"
+   },
+   {
+    "ParameterKey": "WebserverKeyName",
+    "ParameterValue": "JOBTECH-LIN-NOVA-PPK"
+   },
+   {
+    "ParameterKey": "WebserverInstanceType1",
+    "ParameterValue": "t2.nano"
+   },
+  {
+    "ParameterKey": "WebserverAMIID",
+    "ParameterValue" : "ami-04bf6dcdc9ab498ca"
+  },
+  {
+   "ParameterKey": "WebserverInstanceType2",
+   "ParameterValue": "t2.small"
+  }
+
+]
